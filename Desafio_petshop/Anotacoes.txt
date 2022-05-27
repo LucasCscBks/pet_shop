@@ -1,0 +1,4 @@
+https://pt.wix.com/website-template/view/html/744?originUrl=https%3A%2F%2Fpt.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fbusiness%2Fpets-animals&tpClick=view_button&esi=f46330ac-f0ca-4b16-9ae9-57ae6b0c8835
+Template usado
+Quando adiciono o meu main da um scroll no eixo x, tentei de tudo e não consigo resolver pelo amor de
+DEUS. Coloquei a largura dos pais em % porcentagem.
