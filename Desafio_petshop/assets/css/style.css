@@ -87,4 +87,27 @@ body {
     background-color:#3a789e ;
     color: #fff;
 }
-
+.fixed {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    background-color: #3a789e;
+    color: #fff;
+    height: 9vh;
+    width: 20vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2vh;
+    margin-right: 1vw;
+    font-size: 1.3vw;
+    font-weight: 900;
+}
+.fixed:hover {
+    cursor: pointer;
+}
+.fixed_icon {
+    padding-right: 1vw;
+    display: flex;
+    justify-content: center;
+}
